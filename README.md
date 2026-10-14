@@ -1,2 +1,3 @@
 # hanshuang-darkmode
-为寒霜破甲工具提供深色模式
+使用方法:
+下载 Realease 中的 app.asar,放到 resources 目录下
